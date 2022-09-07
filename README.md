@@ -39,9 +39,10 @@ df.info()
 df.isnull().sum()
 
 # OUPUT
-# Data:
+# DATA:
 ![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%201.png)
 ![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%202.png)
+# NON NULL BEFORE:
 ![image]()
 ![image]()
 ![image]()
