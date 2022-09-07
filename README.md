@@ -53,7 +53,7 @@ df.isnull().sum()
 # MEAN:
 ![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%207.png)
 # MEDIAN:
-![image]()
+![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%208.png)
 ![image]()
 
 
