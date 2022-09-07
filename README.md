@@ -50,7 +50,8 @@ df.isnull().sum()
 ![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%205.png)
 # MODE:
 ![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%206.png)
-![image]()
+# MEAN:
+![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%208.png)
 ![image]()
 ![image]()
 
