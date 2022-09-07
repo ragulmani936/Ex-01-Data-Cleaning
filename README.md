@@ -40,7 +40,7 @@ df.isnull().sum()
 
 # OUPUT
 # Data:
-![image]()
+![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%201.png)
 ![image]()
 ![image]()
 ![image]()
