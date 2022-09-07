@@ -56,6 +56,6 @@ df.isnull().sum()
 ![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%208.png)
 # NON NULL AFTER:
 ![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%209.png)
-![image]()
+![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%2010.png)
 
 
