@@ -60,3 +60,5 @@ df.isnull().sum()
 ![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%2010.png)
 
 
+# RESULT:
+Thus,the given data is read,cleansed and the cleaned data is saved into the file.
