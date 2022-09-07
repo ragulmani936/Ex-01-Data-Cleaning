@@ -19,6 +19,7 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
+~~~
 import pandas as pd
 df=pd.read_csv("/content/Data_set.csv")
 print(df)
@@ -37,6 +38,7 @@ df['watchers']=df['watchers'].fillna(df['watchers'].median())
 df.head()
 df.info()
 df.isnull().sum()
+~~~
 
 # OUPUT
 # DATA:
@@ -45,7 +47,7 @@ df.isnull().sum()
 # NON NULL BEFORE:
 ![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%203.png)
 ![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%204.png)
-![image]()
+![image](https://github.com/ragulmani936/Ex-01-Data-Cleaning/blob/main/image%205.png)
 ![image]()
 ![image]()
 ![image]()
