@@ -41,4 +41,14 @@ df.isnull().sum()
 # OUPUT
 # Data:
 ![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+
+
 
